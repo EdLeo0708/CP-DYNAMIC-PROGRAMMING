@@ -55,4 +55,4 @@ print(f"Bubble Sort: {bubble_sorted}, Quantas trocas = {bubble_trocas}")
 
 
 
-# O insertion Possui o maior numero de trocas diferente do selection e o bubble sort que possuem 3 trocas 
+# O insertion Sort Possui o maior numero de trocas diferente do selection e o Bubble Sort que possuem 3 trocas 
