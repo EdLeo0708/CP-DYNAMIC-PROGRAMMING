@@ -51,3 +51,8 @@ bubble_sorted, bubble_trocas = bubble_sort(vetor.copy())
 print(f"Insertion Sort: {insertion_sorted}, Quantas trocas = {insertion_trocas}")
 print(f"Selection Sort: {selection_sorted}, Quantas trocas = {selection_trocas}")
 print(f"Bubble Sort: {bubble_sorted}, Quantas trocas = {bubble_trocas}")
+
+
+
+
+# O insertion Possui o maior numero de trocas diferente do selection e o bubble sort que possuem 3 trocas 
